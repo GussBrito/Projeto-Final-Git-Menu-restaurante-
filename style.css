@@ -1,3 +1,7 @@
 body{
     background-color: darkslategrey;
 }
+title{
+    text-align: center;
+    color: black;
+}
