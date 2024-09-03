@@ -1,7 +1,32 @@
 body{
-    background-color: darkslategrey;
+background-color: rgb(32, 19, 129);
 }
-title{
+.title{
+    color: rgb(25, 20, 20);
     text-align: center;
-    color: black;
+    margin:0;
+    box-shadow: 5px 5px 0px rgba(66,65,65);
+    border-radius: 30px;
+    background-color: rgb(253, 203, 3);
+    width: 600px;
+    height: 30px;
+}
+.caixa-do-titulo{
+width: 270px;
+height: 90px;
+background-color: cornsilk;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+box-shadow: 5px 5px 0px rgb(66, 65, 65);
+border-radius: 15px;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    box-shadow: 5px 5px 0px rgba(66,65,65);
+    border-radius: 15px;
+    background-color: rgb(253, 203, 3);
 }
