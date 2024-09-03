@@ -75,3 +75,81 @@ margin: 0 auto;
 box-shadow: 5px 5px 0px rgb(66, 65, 65);
 border-radius: 15px;
 }
+.cuscuz{
+    width: 350px;
+    height: 300px;
+    margin-right: 10px;
+    border-radius: 15px;
+
+    position: absolute;
+    top: 20px;
+    
+}
+.suco{
+    width: 350px;
+    height: 300px;
+    margin-right: 10px;
+    border-radius: 15px;
+    position: absolute;
+    top: 20px;
+}
+.pudim{
+    width: 350px;
+    height: 300px;
+    margin-right: 10px;
+    border-radius: 15px;
+    position: absolute;
+    top: 20px;
+
+}
+.container-cuscuz{
+    width: 400px;
+    height: 600px;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 5px 5px 0px rgb(66, 65, 65);
+    border-radius: 15px;
+    position: relative;
+}
+.container-suco{
+    width: 400px;
+    height: 600px;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 5px 5px 0px rgb(66, 65, 65);
+    border-radius: 15px;
+    position: relative;
+}
+.container-pudim{
+    width: 400px;
+    height: 600px;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 5px 5px 0px rgb(66, 65, 65);
+    border-radius: 15px;
+    position: relative;
+}
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.caixa-rodape{
+width: 600px;
+height: 40px;
+background-color: cornsilk;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+box-shadow: 5px 5px 0px rgb(66, 65, 65);
+border-radius: 15px;
+}
